@@ -1,7 +1,7 @@
 # 2025-Arxiv-Paper-List-Scene-Graph
 This is crawled to find out about the 2025 **Scene Graph** papers in arxiv. There may be errors, so please leave a Pull Request or Issue and I will actively apply it.
 
-Updated on JANUARY 18, 2026 10:00 (Asia/Seoul Time, Automatically Updated)
+Updated on JANUARY 19, 2026 10:02 (Asia/Seoul Time, Automatically Updated)
 
 You can explore the paper more intuitively at [https://lee-jaewon.github.io/2025-Arxiv-Paper-List-Scene-Graph](https://lee-jaewon.github.io/2025-Arxiv-Paper-List-Scene-Graph).
 
